@@ -58,11 +58,11 @@ Nickname     | Contact(s)                  | Companies   | Status    | Notes
 [Eclair]     | Pierre-Marie PADIOU         | ACINQ       | Prototype | SCALA, Apache 2.0
 [lightningd] | Rusty Russell               | Blockstream | Prototype | C, MIT
 [lnd]        | Thaddeus Dryja, Joseph Poon |             | Prototype | Go, MIT
-[Thunder]    | matsjj                      |             | Prototype | Java, AGPLv3
+[Thunder]    | matsjj                      | Blockchain  | Prototype | Java, AGPLv3
 
 [Amiko-Pay]: https://github.com/cornwarecjp/amiko-pay
 [Eclair]: https://github.com/ACINQ/eclair
 [lightningd]: https://github.com/ElementsProject/lightning
 [lnd]: https://github.com/LightningNetwork/lnd
-[Thunder]: https://github.com/matsjj/thundernetwork
+[Thunder]: https://github.com/blockchain/thunder
 
